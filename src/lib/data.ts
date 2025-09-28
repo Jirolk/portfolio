@@ -1,38 +1,34 @@
 export const personalInfo = {
-  name: "Lorem Ipsum",
-  location: "Dolor Sit Amet",
-  email: "lorem@ipsum.com",
-  github: "https://github.com/loremipsum",
-  linkedin: "https://linkedin.com/in/loremipsum",
-  profilePicture: "/profile.jpeg",
+  name: "Sandro Castillo",
+  location: "Concepción, Paraguay",
+  email: "sandrocastillo@unc.edu.py",
+  github: "https://github.com/Jirolk",
+  linkedin: "https://linkedin.com/in/swnder",
+  profilePicture: "/profile1.jpg",
   heroDescription:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "Ingeniero en Informática Empresarial con experiencia en desarrollo fullstack utilizando React, Java y PostgreSQL. He participado en proyectos de ERP, aplicaciones móviles y plataformas web, con enfoque en optimización de procesos, inteligencia artificial y buenas prácticas de desarrollo. Proactivo, autodidacta y con experiencia en proyectos colaborativos y remotos, tanto a nivel nacional como internacional.",
 };
 
 export const workExperience = [
   {
-    company: "Lorem Ipsum Corp",
-    location: "Lorem City",
-    position: "Lorem Engineer",
-    period: "Jan 2020 - Present",
+    company: "CDS S.A.",
+    location: "Asunción, Paraguay",
+    position: "Desarrollador Fullstack",
+    period: "Febrero 2023 - Actual",
     achievements: [
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
-      "Duis aute irure dolor in reprehenderit in voluptate velit esse.",
-      "Excepteur sint occaecat cupidatat non proident.",
-      "Sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "Curabitur pretium tincidunt lacus. Nulla gravida orci a odio.",
+      "✔ Desarrollo y soporte en proyectos: FACTURY, MAQUILA, SNIN, SATA, KEISAN [ERP]",
+      "✔ Tecnologías: React, Java, PostgreSQL, Docker, Git"
     ],
   },
   {
-    company: "Dolor Sit Amet",
-    location: "Ipsumville",
-    position: "Software Developer",
-    period: "Feb 2019 - Jan 2020",
+    company: "Jatopapy",
+    location: "Concepción, Paraguay",
+    position: "Desarrollador Fullstack",
+    period: "Feb 2020 - Actual",
     achievements: [
-      "Morbi in sem quis dui placerat ornare.",
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.",
+      "✔ Creación y mantenimiento de plataforma digital.",
+      "✔ Tecnologías: React, Node.js, php",
+
     ],
   },
   {
